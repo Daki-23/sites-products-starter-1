@@ -1,5 +1,5 @@
 import './global.css';
-// test test
+// test test test
 function importAll(r) {
     let images = {};
     r.keys().map((item, index) => { images[item.replace('./', '')] = r(item); });
