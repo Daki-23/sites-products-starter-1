@@ -6,6 +6,7 @@
     "pages": "pages",
     "translations": "translations",
     "partials": [
+      
       "partials",
       "layouts/header.hbs",
       "layouts/footer.hbs",
